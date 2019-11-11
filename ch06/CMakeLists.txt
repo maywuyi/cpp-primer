@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ch06 demo.cc)
