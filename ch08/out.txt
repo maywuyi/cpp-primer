@@ -1,0 +1,1 @@
+ISBN:A,  Sold:2,  Revenue:4,  AvgPrice:2
